@@ -129,12 +129,13 @@ Predicted =======> Positive
 
 ## 📸 Project Results
 
-The Results folder contains:
+### Output 1
 
-* 📷 Dataset Preview
-* 📷 Execution Output
-* 📷 Sentiment Prediction Results
-* 📷 Project Workflow
+![Output 1](Results/output.1.png)
+
+### Output 2
+
+![Output 2](Results/output.2.png)
 
 ---
 
