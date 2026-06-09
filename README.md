@@ -34,20 +34,6 @@ The project demonstrates how AI-powered language models can be used to understan
 
 ---
 
-## 📂 Dataset Information
-
-The project uses a sample dataset containing news article text and sentiment-related information.
-
-**Dataset Features:**
-
-* Source
-* Author
-* Title
-* Description
-* Sentiment
-* Category
-
----
 
 ## ⚙️ Project Workflow
 
