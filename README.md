@@ -66,6 +66,31 @@ News Article Input
         ▼
  Positive / Neutral / Negative
 ```
+## 📂 Dataset
+
+The dataset used in this project is stored in:
+
+📁 testdata.csv
+
+### Dataset Features
+
+- Source
+- Author
+- Title
+- Description
+- URL
+- Published At
+- Sentiment
+- Type
+
+### Dataset Summary
+
+- Total Records: 3500+
+- Categories: Business, Technology, Sports, Politics, Entertainment, and more
+- Sentiment Classes:
+  - 😊 Positive
+  - 😐 Neutral
+  - ☹️ Negative
 
 ---
 
@@ -125,6 +150,20 @@ Output:
 Predicted =======> Positive
 ```
 
+## 💻 Source Code
+
+The complete project implementation is available in the **Source_Code** folder.
+
+### 📓 api.ipynb
+- Main notebook for sentiment prediction.
+- Integrates Google Gemini API.
+- Accepts user input and predicts sentiment.
+
+### 📓 Code-checkpoint.ipynb
+- Contains the complete project workflow.
+- Dataset loading and preprocessing.
+- Sentiment classification implementation.
+- Output generation and execution results
 ---
 
 ## 📸 Project Results
